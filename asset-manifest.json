@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Will-rd/About-Me/static/css/main.08dfd2d4.css",
+    "main.js": "/Will-rd/About-Me/static/js/main.c9a82b51.js",
+    "index.html": "/Will-rd/About-Me/index.html",
+    "main.08dfd2d4.css.map": "/Will-rd/About-Me/static/css/main.08dfd2d4.css.map",
+    "main.c9a82b51.js.map": "/Will-rd/About-Me/static/js/main.c9a82b51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08dfd2d4.css",
+    "static/js/main.c9a82b51.js"
+  ]
+}
