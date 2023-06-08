@@ -25,7 +25,7 @@ export default function PageContainer() {
   const handlePageChange = (page) => setCurrentPage(page);
 
   return (
-    <div>
+    <div  className='container mainPage  max-h-full max-w-full bg-cover bg-center'  >
       
       <NavTabs currentPage={currentPage} handlePageChange={handlePageChange} />
       

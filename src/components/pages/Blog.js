@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Blog() {
   return (
-    <div>
+    <div className='text-slate-900 text-xl font-bold '>
       <h1>Blog Page</h1>
       
       <h2>Title?</h2>
