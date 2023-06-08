@@ -2,7 +2,7 @@
   "name": "About-Me",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://will-rd.github.io/About-Me/",
+  "homepage": "https://Will-rd.github.io/About-Me/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
